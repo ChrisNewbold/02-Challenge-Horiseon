@@ -1,4 +1,4 @@
-# 02 Challenge HTML, CSS, and Git: Code Refactor
+# 02-Challenge-Horiseon HTML, CSS, and Git: Code Refactor
 
 ## Overview
 
@@ -25,7 +25,7 @@ The following topics will be covered in this unit:
   - Positioning and floats
   - Color: hexadecimal and named
   - CSS debug
-- Git & Git workflow
+  - Git & Git workflow
   - git clone
   - git add
   - git commit
@@ -37,9 +37,9 @@ The following topics will be covered in this unit:
   - Ensure site loads with no errors
   - Using unique names
 
-## Learning Objectives
+## Helpful links
 
-You will be employer-competitive if you are able to:
-
-- Build and style static webpages with semantic HTML and CSS
-- Implement best practices and standards when structuring HTML files using nested elements,and ensure the site passes Accessibility standards
+YouTube Link 1 "Block, Inline,and Inline-Block explained: https://www.youtube.com/watch?v=x_i2gga-sYg
+YouTube Link 2 Intro to HTML5 The Aside Tag Part-13: https://www.youtube.com/watch?v=mjHS7fyA9-s
+YouTube Link 3 "When to Use Semantic HTML Elements Instead of Divs": https://www.youtube.com/watch?v=ZThq93Yuwd0
+YouTube Link 4 "Getting Started with web accessibility with Ashlee Boyer: https://www.youtube.com/watch?v=qr0ujkLLgmE
