@@ -1,22 +1,22 @@
-/* global style */
+/* global style that tells the browser to set the boarder of the site to 0 */
 * {
   box-sizing: border-box;
   padding: 0;
   margin: 0;
 }
-/* global background color */
+/* global setting of the site background color */
 body {
   background-color: #d9dcd6;
 }
-/* this section is used in the logo in the top left corner */
+/* this section is used in the logo in the top left corner determining the space around the logo I reduced this by 10px you will notice the nav section colour is also determined here */
 .header {
-  padding: 20px;
+  padding: 10px;
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
     "Lucida Sans", "Arial", "sans-serif";
   background-color: #2a607c;
   color: #ffffff;
 }
-/* this determins the logo displays horizontally and the font size */
+/* this determins the logo displays horizontally and the font size is set to 48px */
 .header h1 {
   display: inline-block;
   font-size: 48px;
@@ -25,7 +25,7 @@ body {
 .header h1 .seo {
   color: #d9dcd6;
 }
-/* this is used for the site navigation spacing, location, font type and size */
+/* this is used for the site navigation spacing, location (float right), font type and size */
 .header nav {
   padding: 15px;
   margin-right: 20px;
@@ -34,7 +34,7 @@ body {
     "sans-serif";
   font-size: 20px;
 }
-/* this removes the dot elemment in the list and styles it in more of a tab like look */
+/* this removes the dot elemment in the list and styles it in more of a tab navagation look and feel */
 .header nav ul {
   list-style-type: none;
 }
@@ -43,17 +43,17 @@ body {
   display: inline-block;
   margin-left: 25px;
 }
-/* navagation text color style */
+/* this is determining the navagation text color and removing any style i.e. underline */
 a {
   color: #ffffff;
   text-decoration: none;
 }
-/* document paragraph font size and space between the lines of copy */
+/* document paragraph font size and space between the lines of copy I did create more breathing space between the paragraph lines to increase readability */
 p {
   font-size: 16px;
   line-height: 1.5;
 }
-/* hero image at the top of the page the below dictates the size, space on the bottom the URL the background size and position */
+/* This dictates the size of the hero image, space on the bottom, the image link, the image size and position we have the background size set to cover to make it as large as it can be while remaining centered */
 .hero {
   height: 800px;
   width: 100%;
@@ -62,14 +62,14 @@ p {
   background-size: cover;
   background-position: center;
 }
-/* main article image heading font size and space underneath */
+/* main article image heading font size and space underneath. These classes have been consolidated */
 .search-engine-optimization h2,
 .online-reputation-management h2,
 .social-media-marketing h2 {
   margin-bottom: 20px;
   font-size: 36px;
 }
-/* main article heading space underneath, space with-in, height set to auto, font used, background color to be blue and text color white */
+/* This dictates the space underneath the article headings, space with-in, changed height setting to auto, font used, background color to be blue and text color white These classes have been consolidated */
 .search-engine-optimization,
 .online-reputation-management,
 .social-media-marketing {
@@ -81,7 +81,7 @@ p {
   background-color: #0072bb;
   color: #ffffff;
 }
-/* main article maximum image size specification */
+/* this sets the main article maximum image height. These classes have been consolidated */
 .search-engine-optimization img,
 .online-reputation-management img,
 .social-media-marketing img {
@@ -100,16 +100,16 @@ p {
 /* location of main article section specification */
 .content {
   width: 75%;
-  margin-left: 20px;
   display: inline-block;
+  margin-left: 20px;
   /*  */
 }
 .content section {
   display: inline-block;
 }
-/* additional aside section specification including background color */
+/* additional aside section specification including background color background auto was added to this section so its proportions are maintained */
 .benefits {
-  margin-right: 30px;
+  margin-right: 20px;
   padding: 20px;
   clear: both;
   float: right;
@@ -120,21 +120,21 @@ p {
   background-color: #2589bd;
   background-size: auto;
 }
-/* aside margin and font color used */
+/* aside margin and font color used. These classes have been consolidated */
 .benefit-lead,
 .benefit-brand,
 .benefit-cost {
   margin-bottom: 32px;
   color: #ffffff;
 }
-/* aside headings */
+/* aside headings. These classes have been consolidated */
 .benefit-lead h3,
 .benefit-brand h3,
 .benefit-cost h3 {
   margin-bottom: 10px auto;
   text-align: center;
 }
-/* sizes specs for aside icon vector images */
+/* This dictates the image size for the aside icon vector images. These classes have been consolidated */
 .benefit-lead img,
 .benefit-brand img,
 .benefit-cost img {
