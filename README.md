@@ -1,4 +1,4 @@
-# 02-Challenge-Horiseon HTML, CSS, and Git: Code Refactor
+# 02 Challenge HTML, CSS, and Git: Code Refactor
 
 ## Overview
 
@@ -37,25 +37,9 @@ The following topics will be covered in this unit:
   - Ensure site loads with no errors
   - Using unique names
 
-## Bonus Points
-
-You will be employer-ready if you can answer the following questions:
-
-1. What does it mean to be a full-stack web developer?
-2. What is the relationship between HTML and CSS?
-3. What is Git workflow?
-
 ## Learning Objectives
 
 You will be employer-competitive if you are able to:
 
 - Build and style static webpages with semantic HTML and CSS
-- Implement best practices and standards when structuring HTML files using nested elements,
-
-## Helpful Links
-
-- [Version Control](https://en.wikipedia.org/wiki/Version_control)
-- [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
-- [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
-- [Pro Git](https://git-scm.com/book/en/v2)
-- [Dev Docs](https://devdocs.io/)
+- Implement best practices and standards when structuring HTML files using nested elements,and ensure the site passes Accessibility standards
