@@ -47,3 +47,8 @@ YouTube Link 1 "Block, Inline,and Inline-Block explained": https://www.youtube.c
 YouTube Link 2 "Intro to HTML5 The Aside Tag Part-13": https://www.youtube.com/watch?v=mjHS7fyA9-s
 YouTube Link 3 "When to Use Semantic HTML Elements Instead of Divs": https://www.youtube.com/watch?v=ZThq93Yuwd0
 YouTube Link 4 "Getting Started with web accessibility with Ashlee Boyer": https://www.youtube.com/watch?v=qr0ujkLLgmE
+
+## Visual Screen Shot
+
+![My Screen Shot](https://user-images.githubusercontent.com/104353732/169064181-1a14cef6-862e-4674-be87-5f3c861dcfdb.png)
+``
