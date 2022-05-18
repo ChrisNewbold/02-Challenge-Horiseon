@@ -39,7 +39,7 @@ The following topics will be covered in this unit:
 
 ## Helpful links
 
-YouTube Link 1 "Block, Inline,and Inline-Block explained: https://www.youtube.com/watch?v=x_i2gga-sYg
-YouTube Link 2 Intro to HTML5 The Aside Tag Part-13: https://www.youtube.com/watch?v=mjHS7fyA9-s
+YouTube Link 1 "Block, Inline,and Inline-Block explained": https://www.youtube.com/watch?v=x_i2gga-sYg
+YouTube Link 2 "Intro to HTML5 The Aside Tag Part-13": https://www.youtube.com/watch?v=mjHS7fyA9-s
 YouTube Link 3 "When to Use Semantic HTML Elements Instead of Divs": https://www.youtube.com/watch?v=ZThq93Yuwd0
-YouTube Link 4 "Getting Started with web accessibility with Ashlee Boyer: https://www.youtube.com/watch?v=qr0ujkLLgmE
+YouTube Link 4 "Getting Started with web accessibility with Ashlee Boyer": https://www.youtube.com/watch?v=qr0ujkLLgmE
