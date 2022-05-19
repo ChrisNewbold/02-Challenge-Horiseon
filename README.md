@@ -1,8 +1,4 @@
-# 02-Challenge-Horiseon HTML, CSS, and Git: Code Refactor
-
-## Site URL
-
-https://chrisnewbold.github.io/02-Challenge-Horiseon/
+# 02-Challenge-Horiseon HTML, CSS, and Git Hub
 
 ## Overview
 
