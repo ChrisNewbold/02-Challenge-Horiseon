@@ -127,7 +127,7 @@ p {
   margin-bottom: 32px;
   color: #ffffff;
 }
-/* aside headings. These classes have been consolidated */
+/* aside headings. These classes have been consolidated This was used to set the setting size within the aside section */
 .benefit-lead h3,
 .benefit-brand h3,
 .benefit-cost h3 {
