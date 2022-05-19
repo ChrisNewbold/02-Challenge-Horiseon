@@ -87,27 +87,27 @@ p {
 .social-media-marketing img {
   max-height: 200px;
 }
-/* main article 1 and 2 image location and space on the right hand side */
+/* main article 1 and 2 image location / alignment and space on the right hand side */
 .float-left {
   float: left;
   margin-right: 25px;
 }
-/* main article 2 image location */
+/* main article 2 image location / alignment and space on the left hand side */
 .float-right {
   float: right;
   margin-left: 25px;
 }
 /* location of main article section specification */
 .content {
-  width: 75%;
-  display: inline-block;
-  margin-left: 20px;
-  /*  */
-}
+    width: 75%;
+    display: inline-block;
+    margin-left: 20px;
+  }
+  /* this ensures the section displays inline with the class above */
 .content section {
   display: inline-block;
 }
-/* additional aside section specification including background color background auto was added to this section so its proportions are maintained */
+/* This determins the margin on the right, the padding around the benefits paragraph copy, the width and height of the box, the font style, background color and the background-size auto was added to this section so its proportions are maintained */
 .benefits {
   margin-right: 20px;
   padding: 20px;
@@ -120,14 +120,14 @@ p {
   background-color: #2589bd;
   background-size: auto;
 }
-/* aside margin and font color used. These classes have been consolidated */
+/* aside margin and font color used (white). These classes have been consolidated */
 .benefit-lead,
 .benefit-brand,
 .benefit-cost {
   margin-bottom: 32px;
   color: #ffffff;
 }
-/* aside headings. These classes have been consolidated This was used to set the setting size within the aside section */
+/* This determins the aside headings margin from the bottom along with the alignment to be centered. These classes have been consolidated */
 .benefit-lead h3,
 .benefit-brand h3,
 .benefit-cost h3 {
@@ -143,7 +143,7 @@ p {
   margin-bottom: 10px auto;
   max-width: 150px;
 }
-/* footer font info */
+/* this determins the footer padding, font style and alignment along with determining both sides are not allowed to float */
 .footer {
   padding: 30px;
   clear: both;
@@ -155,3 +155,4 @@ p {
 .footer h4 {
   font-size: 20px;
 }
+/* End of CSS
