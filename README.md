@@ -52,3 +52,4 @@ YouTube Link 4 "Getting Started with web accessibility with Ashlee Boyer": https
 
 ![My Screen Shot](https://user-images.githubusercontent.com/104353732/169064181-1a14cef6-862e-4674-be87-5f3c861dcfdb.png)
 ``
+Thank you for taking the time to look at my project 😊
